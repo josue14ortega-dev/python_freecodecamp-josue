@@ -1,3 +1,6 @@
+# taller1.py - Primer ejercicio de freeCodeCamp
+# Autor: Josue
+# Fecha: Febrero 2026
 base_price = 15
 age = 17
 
@@ -47,4 +50,5 @@ if age >= 21 or age >= 18 and (show_time != "Evening" or is_member) :
     print("Finelprice ticket:",final_price)
 
 else:
+
     print("Ticket booking failed due to restrictions")
