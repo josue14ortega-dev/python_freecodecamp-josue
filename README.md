@@ -4,6 +4,8 @@ Este repositorio contiene mis ejercicios y proyectos del curso de Python en free
 
 ## Progreso actual
 - taller1.py: Primer ejercicio/taller completado.
+- lab1.py: laborartorio/completado
+- lab2.py: laborartorio/completado
 
 ## Próximos pasos
 - Completar más talleres y proyectos de certificación.
