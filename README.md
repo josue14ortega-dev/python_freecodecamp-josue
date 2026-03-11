@@ -6,7 +6,7 @@ Este repositorio contiene mis ejercicios y proyectos del curso de Python en free
 - [x] **Variables y Tipos de Datos**: Dominado.
 - [x] **Operadores y Expresiones**: Dominado.
 - [x] **Condicionales**: Completado (Sentencias `if`, `else`, `elif`).
-- [/] **Bucles y Ciclos**: En aprendizaje activo 🛠️ (Trabajando con `for` y `while`).
+- [x] **Bucles y Ciclos**: En aprendizaje activo 🛠️ (Trabajando con `for` y `while`).
 - [ ] **Funciones y Módulos**: Próximo gran paso.
 
 # 🐍 Aprendizaje de Python - FreeCodeCamp
