@@ -1,3 +1,8 @@
+"""
+Primer Proyect de Certificacion
+Nombre: Josue
+Fecha: 15-Marzo-2026
+"""
 test_settings = {
     "theme": "dark",
     "notifications": "enabled"

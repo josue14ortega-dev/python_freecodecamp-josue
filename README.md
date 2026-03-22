@@ -1,38 +1,53 @@
-# Progreso del curso de Python - freeCodeCamp
+# 🐍 Python Learning Path — freeCodeCamp
 
-Este repositorio contiene mis ejercicios y proyectos del curso de Python en freeCodeCamp.
+> Documentación de mi aprendizaje activo de Python a través del curso de freeCodeCamp.  
+> Este repositorio forma parte de mi portafolio técnico como futuro Ingeniero en Sistemas.
 
-## Progreso actual
-- [x] **Variables y Tipos de Datos**: Dominado.
-- [x] **Operadores y Expresiones**: Dominado.
-- [x] **Condicionales**: Completado (Sentencias `if`, `else`, `elif`).
-- [x] **Bucles y Ciclos**: En aprendizaje activo 🛠️ (Trabajando con `for` y `while`).
-- [ ] **Funciones y Módulos**: Próximo gran paso.
+---
 
-# 🐍 Aprendizaje de Python - FreeCodeCamp
+## 📌 Sobre este repositorio
 
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![Status](https://img.shields.io/badge/status-en%20progreso-success)
-![Course](https://img.shields.io/badge/curso-FreeCodeCamp-firebrick)
+Este repositorio contiene los ejercicios y proyectos que desarrollo mientras curso la **Certificación de Python** en freeCodeCamp. El objetivo no es solo completar el curso, sino construir una base sólida en programación que respalde mi formación en Ingeniería en Sistemas.
 
-Este repositorio contiene mis avances, ejercicios y proyectos realizados durante el curso de **Python de FreeCodeCamp**. Aquí documento mi camino para dominar los fundamentos de la programación y la lógica computacional.
+---
 
-## 🎯 Objetivo
-El propósito de este proyecto es fortalecer mis bases en Python, enfocándome actualmente en:
-- [x] Variables y Tipos de Datos
-- [x] Operadores
-- [ ] Condicionales (En curso 🛠️)
-- [ ] Bucles y Ciclos (Próximamente 🚀)
+## 🗂️ Contenido del curso
 
+| Módulo | Tema | Estado |
+|--------|------|--------|
+| 01 | Variables y Tipos de Datos | ✅ Completado |
+| 02 | Operadores y Expresiones | ✅ Completado |
+| 03 | Condicionales (`if`, `else`, `elif`) | ✅ Completado |
+| 04 | Bucles y Ciclos (`for`, `while`) | ✅ Completado  |
+| 05 | Funciones y Módulos | 🔜 Próximo |
+| 06 | Estructuras de Datos | 🔜 Próximo |
 
-## 🛠️ Herramientas Utilizadas
+---
+
+## 🛠️ Stack utilizado
+
 - **Lenguaje:** Python 3
-- **IDE:** [Cursor](https://cursor.com/) (potenciado con IA para optimizar el aprendizaje)
-- **Plataforma:** FreeCodeCamp
+- **Editor:** Cursor (con asistencia de IA integrada)
+- **Plataforma:** [freeCodeCamp — Python Certification](https://www.freecodecamp.org/learn/python-for-everybody/)
+- **Control de versiones:** Git + GitHub
 
-## 🚀 Cómo ejecutar los scripts
-Si deseas probar alguno de los ejercicios localmente:
+---
 
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/josue14ortega-dev/python_freecodecamp-josue.git](https://github.com/josue14ortega-dev/python_freecodecamp-josue.git)
+## 🎯 Objetivos de aprendizaje
+
+- Dominar los fundamentos de Python y la lógica de programación
+- Aplicar los conceptos aprendidos en proyectos funcionales
+- Desarrollar hábitos de código limpio y documentación desde el inicio
+- Construir una base para áreas de interés: ciberseguridad y desarrollo de sistemas
+
+---
+
+## 👤 Autor
+
+**Josue Ortega**  
+Estudiante de Ingeniería en Sistemas · TecNM Campus Morelia  
+[GitHub](https://github.com/josue14ortega-dev)
+
+---
+
+*Repositorio en desarrollo activo — actualización continua conforme avanzo en el curso.*
