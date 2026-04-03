@@ -1,5 +1,5 @@
 """
-Primer Proyect de Certificacion
+Primer Proyecto de Certificacion
 Nombre: Josue
 Fecha: 15-Marzo-2026
 """
