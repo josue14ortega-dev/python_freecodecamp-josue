@@ -1,3 +1,10 @@
+"""
+CURSO DE FREECODECAMP
+TALLER 7
+FECHAS: 02/04/2026
+Nombre: Josue
+"""
+
 class MusicalInstrument:
     def __init__(self, name, instrument_type):
         self.name = name
@@ -11,7 +18,10 @@ class MusicalInstrument:
 
 
 instrument_1 = MusicalInstrument('Oboe', 'woodwind')
+instrument_2 = MusicalInstrument('Trumpet', 'brass')
+
 instrument_1.play()
 print(instrument_1.get_fact())
 
-instrument_2 = MusicalInstrument('Trumpet', 'brass')
+instrument_2.play()
+print(instrument_2.get_fact())
