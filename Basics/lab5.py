@@ -1,3 +1,11 @@
+"""
+LAB #7 - PYTHON COURSE
+NAME: JOSUE ORTEGA
+DATE: 03-ABRIL-2026
+"""
+
+
+
 class Planet:
     def __init__(self, name, planet_type, star):
         if not isinstance(name, str):
