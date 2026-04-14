@@ -1,3 +1,11 @@
+""""
+PROTECTO DE CERTIFICACION FREECODECAMP
+#2
+NOMBRE: JOSUE
+FECHA: 10-ABRIL-2026
+
+"""
+
 class Category:
     def __init__(self, name):
         self.name = name
