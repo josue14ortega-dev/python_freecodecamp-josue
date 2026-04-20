@@ -1,3 +1,10 @@
+"""
+Laboratorio #6
+Fecha: 14-Abril-2026
+Nombre: Josue Ortega
+"""
+
+
 class GameCharacter:
     def __init__(self, name):
         self._name = name
